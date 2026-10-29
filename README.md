@@ -197,8 +197,8 @@ At the latest development checkpoint, the automated suite contained **150+ passi
 ### Collection
 ![Perfumista Collection](perfumista2.jpg)
 
-### Fragrance Details
-![Perfumista Fragrance Details](perfumista3.jpg)
+### Daily Usage
+![Perfumista Daily Usage](perfumista3.jpg)
 
 ### Usage Diary
 ![Perfumista Usage Diary](perfumista4.jpg)
@@ -209,8 +209,8 @@ At the latest development checkpoint, the automated suite contained **150+ passi
 ### Suggestions
 ![Perfumista Suggestions](perfumista6.jpg)
 
-### Correction Voting
-![Perfumista Correction Voting](perfumista7.jpg)
+### Fragrance Details
+![Perfumista Fragrance Details](perfumista7.jpg)
 
 ---
 
